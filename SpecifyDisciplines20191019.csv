@@ -1,0 +1,54 @@
+Discipline,Taxa,Rank
+Minor marine phyla,"Ctenophora, Kinorhyncha, Loricifera, Priapulida, Chaetognatha, Gnathostomulida, Phoronida",Phylum
+Moss animals,Bryozoa,Phylum
+Sponges,Porifera,Phylum
+"Corals, anemones, jellyfish, hydroids",Cnidaria,Phylum
+"Flatworms, flukes, tapeworms",Platyhelminthes,Phylum
+Nematodes,Nematoda,Phylum
+"Bristleworms, fanworms",Polychaeta,Class
+"Earthworms, leaches and minor annelids",Clitellata,Class
+Bivalves,Bivalvia,Class
+Slugs and snails,Gastropoda,Class
+Cephalopods,Cephalopoda,Class
+Minor molluscs,"Polyplacophora, Scaphopoda",Class
+"Sea stars, sea cucumbers, sea lilies, sea urchins",Echinodermata,Phylum
+"Crabs, crayfish and relatives",Decapoda,Order
+Amphipods and isopods,"Amphipoda, Amphipoda",Order
+Minor crustacea,"Branchiopoda, Copepoda, Hexanauplia, Maxillopoda, Ostracoda",Class
+Millipedes and minor myriapods,"Diplopoda, Pauropoda, Symphyla",Class
+Centipedes,Chilopoda,Class
+Spiders,Araneae,Order
+Scorpions,Scorpiones,Order
+Mites,"Astigmata, Mesostigmata, Prostigmata, Sarcoptiformes, Trombidiformes",Order
+Ticks,Ixodida,Order
+Minor arachnids,"Solifugae, Opiliones, Pseudoscorpiones, Palpigradi, Schizomida, Ricinulei, Amblypygi",Order
+Sea spiders,Pycnogonida,Class
+Beetles,Coleoptera,Order
+Moths and butterflies,Lepidoptera,Order
+Flies,Diptera,Order
+Ants,Formicidae,Family
+Bees,"Megachilidae, Halictidae, Apidae, Melittidae, Colletidae, Andrenidae",Family
+Wasps,"Agaonidae, Ampulicidae, Aphelinidae, Argidae, Aulacidae, Bethylidae, Braconidae, Bradynobaenidae, Ceraphronidae, Chalcididae, Charipidae, Chrysididae, Crabronidae, Cynipidae, Diapriidae, Dryinidae, Embolemidae, Encyrtidae, Eucharitidae, Eulophidae, Eumenidae, Eupelmidae, Eurytomidae, Evaniidae, Figitidae, Gasteruptiidae, Ibaliidae, Ichneumonidae, Leucospidae, Liopteridae, Masaridae, Megalyridae, Mutillidae, Mymaridae, Ormyridae, Orussidae, Perilampidae, Platygastridae, Plumariidae, Pompilidae, Proctotrupidae, Pteromalidae, Rhopalosomatidae, Sapygidae, Scelionidae, Sclerogibbidae, Scolebythidae, Scoliidae, Siricidae, Sphecidae, Stephanidae, Tanaostigmatidae, Tenthredinidae, Tenthrednidae, Tiphiidae, Torymidae, Trichogrammatidae, Trigonalidae, Vespidae",Family
+"Leafhoppers, scale insects, cicadas, bugs",Hemiptera,Order
+"Cockroaches, mantids, termites","Blattodea, Mantida, Isoptera",Order
+"Grasshoppers, crickets and katydids",Orthoptera,Order
+Dragonflies and damselflies,Odonata,Order
+Minor freshwater insects,"Ephemeroptera, Trichoptera, Plecoptera",Order
+"Lacewings, antlions",Neuroptera,Order
+Thrips,Thysanoptera,Order
+"Parasitic lice, booklice,",Psocodea,Order
+"Two-pronged bristle tails, coneheads, springtails",Entognatha,Class
+"Bristle tails, archaeognaths",Archaeognatha,Order
+Earwigs,Dermaptera,Order
+Stick insects,Phasmida,Order
+Fleas,Siphonaptera,Order
+Minor insect orders,"Embioptera, Strepsiptera, Zoraptera, Raphidoptera, Mecoptera, Mantophasmatodea",Order
+"Velvet worms, water bears and horsehair worms","Onychophora, Tardigrada, Nematomorpha",Phylum
+"Rotifers, gastrotrichs, entoprocts and ribbon worms","Rotifera, Gastrotricha, Entoprocta, Nemertea",Phylum
+Non-vertebrate chordates,"Thaliacea, Sorberacea, Leptocardii, Appendicularia, Ascidiacea",Class
+Cartilagenous fish,"Holocephali, Elasmobranchii",Class
+Bony fish and jawless fish,"Actinopterygii, Myxini, Cephalaspidomorphi, Sarcopterygii",Class
+Frogs,Amphibia,Class
+Reptiles,Reptilia,Class
+Birds,Aves,Class
+Mammals,Mammalia,Class

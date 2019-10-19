@@ -1,0 +1,16 @@
+{
+  "name": "taxonnamefixer",
+  "version": "0.0.1",
+  "description": "Takes a list of species and subspecies names, splits them up and gets higher ranks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ian Engelbrecht",
+  "license": "MIT",
+  "dependencies": {
+    "fast-csv": "^3.4.0",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.7"
+  }
+}
