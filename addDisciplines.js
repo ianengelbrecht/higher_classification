@@ -4,6 +4,7 @@ const path = require('path')
 
 var disciplines = [];
 var disciplineFile  = 'SpecifyDisciplines20191019.csv'
+let taxonFile = "taxon_names_with_higher_classification_IE20191018.csv"
 
 //read the disciplines
 csv.fromPath(`./${disciplineFile}`, {headers: true})
@@ -15,7 +16,7 @@ csv.fromPath(`./${disciplineFile}`, {headers: true})
 })
 .on("end", () => {
   //read the taxa
-  let taxonFile = "taxon_names_with_higher_classification_IE20191018.csv"
+
   let taxa = []
   csv.fromPath(`./${taxonFile}`, {headers: true})
   .on("data", data => {
