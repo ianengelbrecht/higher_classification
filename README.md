@@ -1,7 +1,8 @@
-A simple utility to add higher taxonomy to a set of species or subspecies names
-Also separates out the taxon authority for those names that include it
+A simple utility to add higher taxonomy to a set of species or subspecies names from [globalnames.org](globalnames.org).
+Also separates out the taxon authority for those names that include it.
 
 Instructions:
+-You need Node.js V8 or higher installed. 
 -add the list of names in the names.js file (they must all be quoted and be separated by commas)
 
 -open a command window and cd to the directory where the files for this utility are located. Then on the command line type:
